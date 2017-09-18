@@ -1,0 +1,63 @@
+body {
+    background-color: #b7d1c4;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+
+
+
+}
+
+
+
+p {
+    
+ 
+}
+
+#nav {
+    border: 5px solid black;
+    text-align: center;
+    background: white;
+    
+}
+
+section {
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    padding-left: 40px;
+
+
+}
+
+
+
+
+h1 {
+    text-align: center;
+
+
+
+    
+}
+
+h2 {
+    text-align: left;
+
+
+
+
+
+}
+
+footer {
+    text-align: center;
+
+
+
+
+
+
+}

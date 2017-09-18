@@ -9,18 +9,11 @@ body {
 
 }
 
-
-
-p {
-    
- 
-}
-
 #nav {
     border: 5px solid black;
     text-align: center;
     background: white;
-    
+
 }
 
 section {
@@ -28,36 +21,17 @@ section {
     padding-right: 15px;
     padding-bottom: 25px;
     padding-left: 40px;
-
-
 }
 
-
-
-
 h1 {
-    text-align: center;
-
-
-
-    
+    text-align: center;  
 }
 
 h2 {
     text-align: left;
-
-
-
-
-
 }
 
 footer {
     text-align: center;
-
-
-
-
-
 
 }
